@@ -1,0 +1,9 @@
+Package: com.snail.reachbojji
+Name: 任意位置播放波吉 //ReachBojji
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 在手机任意位置中通过下拉Home Bar 或者 双击TouchID，播放波吉王子可爱视频
+Maintainer: Snail <snailsohi@gmail.com>
+Author: Snail
+Section: Tweaks
