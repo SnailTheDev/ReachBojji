@@ -2,8 +2,6 @@
 //  BojjiView.m
 //  Poggi
 //
-//  Created by 郑守海 on 2021/12/12.
-//
 
 #import "BojjiView.h"
 
